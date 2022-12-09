@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5ecff574.css",
+    "main.js": "/portfolio/static/js/main.1e5ba58f.js",
+    "static/media/1.jpg": "/portfolio/static/media/1.ebc6876edbbd113ce2dd.jpg",
+    "static/media/img2.jpg": "/portfolio/static/media/img2.015b6444177966037cea.jpg",
+    "static/media/img5.jpg": "/portfolio/static/media/img5.304463dca7639501550a.jpg",
+    "static/media/img6.jpg": "/portfolio/static/media/img6.d604df7715ab52904919.jpg",
+    "static/media/img1.jpg": "/portfolio/static/media/img1.8203f4cdbb8d7bb2bb46.jpg",
+    "static/media/Hovhannes Serobyan - CV.pdf": "/portfolio/static/media/Hovhannes Serobyan - CV.b5bdbff5a5808f6847ea.pdf",
+    "static/media/avatar1.jpg": "/portfolio/static/media/avatar1.b45e089c79f47ef15686.jpg",
+    "static/media/avatar2.jpg": "/portfolio/static/media/avatar2.a9922801483a67f0dc17.jpg",
+    "static/media/avatar3.jpg": "/portfolio/static/media/avatar3.92c566aa63d98ad7997f.jpg",
+    "static/media/body.jpg": "/portfolio/static/media/body.3debe8ad6d7a0530acae.jpg",
+    "static/media/img3.jpg": "/portfolio/static/media/img3.a241a11ac276782376b6.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.5ecff574.css.map": "/portfolio/static/css/main.5ecff574.css.map",
+    "main.1e5ba58f.js.map": "/portfolio/static/js/main.1e5ba58f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ecff574.css",
+    "static/js/main.1e5ba58f.js"
+  ]
+}
